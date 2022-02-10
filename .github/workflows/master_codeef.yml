@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'codeef'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1AC097F404E94FB98F10C49D75CA0263 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_757CEDB3AB9B405EBF2E12B2D92A99F1 }}
